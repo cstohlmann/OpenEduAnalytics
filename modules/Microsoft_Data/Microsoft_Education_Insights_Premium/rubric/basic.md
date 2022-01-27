@@ -7,7 +7,7 @@
 - [x] List any prerequisites for module (like subscriptions/licenses to data source needed).
 
 ## Collect
-- [ ] Sample data set (flat files, eg: CSV).
+- [x] Sample data set (flat files, eg: CSV).
 - [x] Scripts to clean all sensitive data from project assets.
 - [ ] Synapse pipeline demonstrating data extraction from the data source.
 
